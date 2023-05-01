@@ -74,12 +74,11 @@ section#img2{
 }
 
 section.imagem > p{
-    width: 400px;
+    width: 250px;
     background-color: rgba(24, 23, 23, 0.459);
     padding-bottom: 2em;
     padding-left: 1.1em;
     text-shadow: 1px 1px 0px black;
-    margin: auto;
 }
 footer{
     background-color: black;
